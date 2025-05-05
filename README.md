@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Paul Antipolo</h1>
-<h3 align="center">A learning kid for Full Time Hardware & Software Diao</h3>
+<h3 align="center">A learning kid for Full Time Hardware & Software Diagnoses</h3>
 
 - 🔭 I’m currently working on [Website Backend](derra.rf.gd)
 
